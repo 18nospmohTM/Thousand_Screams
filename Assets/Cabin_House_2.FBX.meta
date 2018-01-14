@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: a86894f0dfcc97e4bbf97934b82163a1
-timeCreated: 1515686940
+guid: 4177ec19668875641bc9b88687630ec1
+timeCreated: 1515949561
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
@@ -9,7 +9,7 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Blair_House_1
+    4300000: Cabin_House_2
     9500000: //RootNode
   materials:
     importMaterials: 1

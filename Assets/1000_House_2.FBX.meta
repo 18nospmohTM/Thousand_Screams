@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 9dbac70803f21f04ba07be9af300d0d0
-timeCreated: 1515684761
+guid: 08609dfe0c1d0f647870099c388a78ed
+timeCreated: 1515949495
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
@@ -9,7 +9,8 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Psycho_House
+    4300000: 1000_House_2
+    7400000: Take 001
     9500000: //RootNode
   materials:
     importMaterials: 1
