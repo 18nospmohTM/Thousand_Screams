@@ -1,0 +1,26 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: ATI Radeon HD 5570 (ID=0x68d9)
+    Vendor:   ATI
+    VRAM:     1017 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Users\thomp\Documents\GitHub\Thousand_Screams\Street_Thousand_Screams_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Users\thomp\Documents\GitHub\Thousand_Screams\Street_Thousand_Screams_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Users\thomp\Documents\GitHub\Thousand_Screams\Street_Thousand_Screams_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\Users\thomp\Documents\GitHub\Thousand_Screams\Street_Thousand_Screams_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\Users\thomp\Documents\GitHub\Thousand_Screams\Street_Thousand_Screams_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Users\thomp\Documents\GitHub\Thousand_Screams\Street_Thousand_Screams_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Users\thomp\Documents\GitHub\Thousand_Screams\Street_Thousand_Screams_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Users\thomp\Documents\GitHub\Thousand_Screams\Street_Thousand_Screams_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.071 seconds
+Platform assembly: E:\Users\thomp\Documents\GitHub\Thousand_Screams\Street_Thousand_Screams_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Users\thomp\Documents\GitHub\Thousand_Screams\Street_Thousand_Screams_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.404707 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 714 -> priority: 1 
